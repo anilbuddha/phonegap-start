@@ -6,7 +6,7 @@
         id        = "com.phonegap.hello-world"
         version   = "1.0.0">
 
-    <name>Bodhtree Hello World By Anil Kumar Buddha</name>
+    <name>Hello World BT</name>
 
     <description>
         Hello World sample application that responds to the deviceready event. The first mobile application build on Phonegap.
